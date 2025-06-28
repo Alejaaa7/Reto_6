@@ -10,6 +10,6 @@ Se implementó el reto *Shape* anteriormente presentado (en el Reto 5), pero est
 - Excepciones específicas para validaciones geométricas (por ejemplo verificar si los puntos forman un triánguloo válido).
 
 En ambos se incluyó:
-- validación de tipos.
+- Validación de tipos.
 - Uso del 'ValueError' para datos inválidos.
 - Comentarios explicativos en las partes en las que era necesario controlar errores comunes.
